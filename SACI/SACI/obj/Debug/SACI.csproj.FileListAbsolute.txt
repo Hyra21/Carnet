@@ -1,0 +1,10 @@
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\SACI.exe.config
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\SACI.exe
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\SACI.pdb
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.csprojAssemblyReference.cache
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.Form1.resources
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.Properties.Resources.resources
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.csproj.GenerateResource.cache
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.csproj.CoreCompileInputs.cache
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.exe
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.pdb
