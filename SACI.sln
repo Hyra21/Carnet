@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SACI", "SACI\SACI.csproj", "{6C8A965A-CB86-47D2-A3B4-8D8A1ED3C930}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6C8A965A-CB86-47D2-A3B4-8D8A1ED3C930}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8A965A-CB86-47D2-A3B4-8D8A1ED3C930}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8A965A-CB86-47D2-A3B4-8D8A1ED3C930}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8A965A-CB86-47D2-A3B4-8D8A1ED3C930}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8F90411E-E318-457A-B015-DDEC334D927F}
+	EndGlobalSection
+EndGlobal
