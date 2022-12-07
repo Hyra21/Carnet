@@ -15,6 +15,7 @@ namespace SACI
         public Form1()
         {
             InitializeComponent();
+            this.CenterToScreen();
         }
 
         private void flowLayoutPanel1_Paint(object sender, PaintEventArgs e)
