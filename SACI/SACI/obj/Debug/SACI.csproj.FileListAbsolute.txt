@@ -8,3 +8,14 @@ C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.csproj.GenerateResource
 C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.csproj.CoreCompileInputs.cache
 C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.exe
 C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.pdb
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Data.dll
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.csproj.CopyComplete
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Data.xml
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Data.Entity.EF5.dll
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Data.Entity.EF6.dll
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Fabric.Plugin.dll
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Web.dll
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Data.Entity.EF5.xml
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Data.Entity.EF6.xml
+C:\Users\980014102\source\repos\SACI\SACI\bin\Debug\MySql.Web.xml
+C:\Users\980014102\source\repos\SACI\SACI\obj\Debug\SACI.exe.config
